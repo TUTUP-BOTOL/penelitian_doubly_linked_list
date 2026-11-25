@@ -1,0 +1,3 @@
+﻿No,Skenario Pengujian,Tipe Diharapkan,Tipe Aktual,Hasil
+1,Memasukkan angka ke list integer,int,int,Diterima
+2,Memasukkan teks ke list integer,int,str,Terdeteksi
